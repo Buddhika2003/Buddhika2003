@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm **Buddhika  👋**
 
-<!--
-**Buddhika2003/Buddhika2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\*\*Full‑stack developer • Karate Fighter • Undergraduate BSc IT \*\*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About me
+
+* 🔭 I’m currently working on **Full Stack Developing**
+* 🌱 I’m learning **Node.js**, **JavaScript**,**OOP**,**C++,React** and **Java**.
+* 👯 I’m open to collaborating on beginner-friendly open source projects.
+* 💬 Ask me about **JavaScript**, **React**, and **APIs**.
+
+---
+
+
+
+## 🧰 Tech stack
+
+---
+
+## 📂 Featured Projects
+
+---
+
+## 📫 Connect with me
+
+---
+
