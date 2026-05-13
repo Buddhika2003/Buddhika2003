@@ -103,18 +103,11 @@ A REST API backend system for handling university events and registrations.
 ## 📈 Live Progress Viewer
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddhikerathnayake19&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/buddhikerathnayake19/buddhikerathnayake19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
