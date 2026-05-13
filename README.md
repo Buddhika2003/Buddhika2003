@@ -9,24 +9,41 @@
 
 ## 👨‍💻 About Me
 
-I am passionate about building modern web applications, learning new technologies, and improving my software engineering skills.
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Currently working on **Full-Stack Development**
-- 🌱 Learning:
-  - Node.js
-  - JavaScript
-  - React
-  - Java
-  - C++
-  - Object-Oriented Programming (OOP)
-- 👯 Open to collaborating on beginner-friendly open-source projects
-- 💬 Ask me about:
-  - JavaScript
-  - React
-  - REST APIs
-  - Node.js
-- 🥋 Fun fact:
-  - I’m passionate about both coding and Karate
+```js
+const buddhika = {
+    role: "Full-Stack Developer",
+    education: "BSc IT Undergraduate",
+    currentlyLearning: [
+        "Node.js",
+        "React",
+        "JavaScript",
+        "Java",
+        "C++",
+        "OOP"
+    ],
+    interests: [
+        "Web Development",
+        "REST APIs",
+        "Open Source",
+        "Software Engineering"
+    ],
+    funFact: "Karate Fighter 🥋"
+};
+```
+
+---
+
+### 🚀 What I’m Doing
+
+- 🔭 Building modern **Full-Stack Applications**
+- 🌱 Exploring the **MERN Stack** and backend technologies
+- 👯 Looking to collaborate on **open-source projects**
+- 💡 Passionate about writing clean and scalable code
+- ⚡ Balancing coding life with **Karate discipline**
+
+<br clear="right"/>
 
 ---
 
