@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Buddhika%20Rathnayake&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60"/>
 
 # 👋 Welcome to My GitHub Profile
@@ -7,31 +7,43 @@
 
 ---
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
-```js
-const buddhika = {
-    role: "Full-Stack Developer",
-    education: "BSc IT Undergraduate",
-    currentlyLearning: [
-        "Node.js",
-        "React",
-        "JavaScript",
-        "Java",
-        "C++",
-        "OOP"
-    ],
-    interests: [
-        "Web Development",
-        "REST APIs",
-        "Open Source",
-        "Software Engineering"
-    ],
-    funFact: "Karate Fighter 🥋"
-};
-```
+<table>
+<tr>
+<td width="60%">
+
+### 🚀 Full-Stack Developer in Progress
+
+- 💻 Passionate about building modern and responsive web applications
+- 🌱 Currently learning and improving:
+  - **Node.js**
+  - **React**
+  - **JavaScript**
+  - **Java**
+  - **C++**
+  - **Object-Oriented Programming**
+- 🔥 Interested in:
+  - MERN Stack Development
+  - REST APIs
+  - Backend Development
+  - Software Engineering
+- 🤝 Open for beginner-friendly collaborations and open-source projects
+- 🥋 Fun Fact: I balance coding with Karate discipline
+
+</td>
+
+<td width="40%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buddhika2003&theme=github_dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
