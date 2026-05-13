@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Buddhika%20Rathnayake&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Buddhika%20Rathnayake&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60&descSize=18&animation=fadeIn"/>
+
+</div>
 
 # 👋 Welcome to My GitHub Profile
 
