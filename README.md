@@ -1,14 +1,9 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Buddhika%20Rathnayake&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60&descSize=18&animation=fadeIn"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Buddhika%20Rathnayake&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60"/>
 
 # 👋 Welcome to My GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;MERN+Stack+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Full-Stack+Developer;MERN+Stack+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 
 ---
 
