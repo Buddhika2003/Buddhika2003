@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Buddhika Rathnayake 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Buddhika%20Rathnayake&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60"/>
 
-### 🚀 Full-Stack Developer | 🥋 Karate Fighter | 🎓 BSc IT Undergraduate
+# 👋 Welcome to My GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Learner;JavaScript+%7C+React+%7C+Node.js;Karate+Fighter+%26+IT+Undergraduate" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;MERN+Stack+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -15,12 +15,25 @@
 I am passionate about building modern web applications, learning new technologies, and improving my software engineering skills.
 
 - 🔭 Currently working on **Full-Stack Development**
-- 🌱 Learning **Node.js, JavaScript, React, Java, C++, and OOP**
-- 👯 Open to collaborating on **beginner-friendly open-source projects**
-- 💬 Ask me about **JavaScript, React, REST APIs, and Node.js**
-- 🥋 Fun fact: I’m passionate about both **coding and Karate**
+- 🌱 Learning:
+  - Node.js
+  - JavaScript
+  - React
+  - Java
+  - C++
+  - Object-Oriented Programming (OOP)
+- 👯 Open to collaborating on beginner-friendly open-source projects
+- 💬 Ask me about:
+  - JavaScript
+  - React
+  - REST APIs
+  - Node.js
+- 🥋 Fun fact:
+  - I’m passionate about both coding and Karate
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🧰 Tech Stack
 
@@ -38,13 +51,15 @@ I am passionate about building modern web applications, learning new technologie
 
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb" />
 
 </div>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📂 Featured Projects
 
@@ -56,31 +71,34 @@ I am passionate about building modern web applications, learning new technologie
 
 A full-stack MERN application for managing daily expenses, budgets, and financial reports.
 
-**Features**
+#### ✨ Features
+
 - JWT Authentication
 - Expense Management
-- Monthly Reports
 - Budget Tracking
+- Monthly Reports
 - Search Functionality
 
-**Tech Used**
+#### ⚡ Technologies Used
 
 `React` `Node.js` `Express.js` `MongoDB`
 
 </td>
+
 <td width="50%">
 
 ### 🎉 Student Event Management System
 
-A REST API backend system for handling university events and registrations.
+A backend API system for handling university event management operations.
 
-**Features**
+#### ✨ Features
+
 - CRUD Operations
 - Event Registration
 - MongoDB Integration
 - API Testing with Postman
 
-**Tech Used**
+#### ⚡ Technologies Used
 
 `Node.js` `Express.js` `MongoDB`
 
@@ -90,11 +108,13 @@ A REST API backend system for handling university events and registrations.
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ## 📈 Live Progress Viewer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -104,11 +124,31 @@ A REST API backend system for handling university events and registrations.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=buddhika2003&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buddhika2003&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika2003&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika2003&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika2003&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika2003&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=buddhika2003&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/buddhika2003/buddhika2003/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -123,19 +163,21 @@ A REST API backend system for handling university events and registrations.
 </a>
 
 <a href="mailto:buddhikerathnayake19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 Goals
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 🚀 Goals for 2026
 
 - Build advanced MERN stack applications
 - Contribute to open-source projects
-- Improve backend development skills
-- Learn cloud deployment and DevOps basics
+- Improve backend architecture knowledge
+- Learn cloud deployment & DevOps
 - Become a professional full-stack engineer
 
 ---
@@ -143,5 +185,11 @@ A REST API backend system for handling university events and registrations.
 <div align="center">
 
 ### ⭐ “Consistency is more important than perfection.”
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
