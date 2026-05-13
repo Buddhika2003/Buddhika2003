@@ -1,123 +1,132 @@
+<div align="center">
+
 # Hi there, I'm Buddhika Rathnayake 👋
 
 ### 🚀 Full-Stack Developer | 🥋 Karate Fighter | 🎓 BSc IT Undergraduate
 
-Passionate about building modern web applications and continuously learning new technologies.  
-Currently focused on full-stack development using the MERN stack while improving problem-solving and software engineering skills.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Learner;JavaScript+%7C+React+%7C+Node.js;Karate+Fighter+%26+IT+Undergraduate" />
+
+</div>
 
 ---
 
-## 🔭 About Me
+## 👨‍💻 About Me
+
+I am passionate about building modern web applications, learning new technologies, and improving my software engineering skills.
 
 - 🔭 Currently working on **Full-Stack Development**
-- 🌱 Learning:
-  - Node.js
-  - JavaScript
-  - React
-  - Java
-  - C++
-  - Object-Oriented Programming (OOP)
-- 👯 Open to collaborating on beginner-friendly open source projects
-- 💬 Ask me about:
-  - JavaScript
-  - React
-  - REST APIs
-  - Node.js
-- ⚡ Fun fact: I’m passionate about both coding and Karate
+- 🌱 Learning **Node.js, JavaScript, React, Java, C++, and OOP**
+- 👯 Open to collaborating on **beginner-friendly open-source projects**
+- 💬 Ask me about **JavaScript, React, REST APIs, and Node.js**
+- 🥋 Fun fact: I’m passionate about both **coding and Karate**
 
 ---
 
 ## 🧰 Tech Stack
 
+<div align="center">
+
 ### 💻 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 ### 🛠️ Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 💰 Student Expense Tracker System
 
 A full-stack MERN application for managing daily expenses, budgets, and financial reports.
 
-#### Features
-
+**Features**
 - JWT Authentication
 - Expense Management
 - Monthly Reports
 - Budget Tracking
 - Search Functionality
 
-#### Tech Used
+**Tech Used**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
----
+</td>
+<td width="50%">
 
 ### 🎉 Student Event Management System
 
 A REST API backend system for handling university events and registrations.
 
-#### Features
-
+**Features**
 - CRUD Operations
 - Event Registration
-- MongoDB Database Integration
+- MongoDB Integration
 - API Testing with Postman
 
-#### Tech Used
+**Tech Used**
 
 `Node.js` `Express.js` `MongoDB`
 
----
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📈 Live Progress Viewer
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buddhika2003&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika2003&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika2003&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/buddhika-rathnayake-a09603333">
-    <img src="https://img.shields.io/badge/LinkedIn-Buddhika%20Rathnayake-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<div align="center">
 
-📧 Email: buddhikerathnayake19@gmail.com
+<a href="https://www.linkedin.com/in/buddhika-rathnayake-a09603333">
+  <img src="https://img.shields.io/badge/LinkedIn-Buddhika%20Rathnayake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:buddhikerathnayake19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -126,9 +135,13 @@ A REST API backend system for handling university events and registrations.
 - Build advanced MERN stack applications
 - Contribute to open-source projects
 - Improve backend development skills
-- Learn cloud deployment & DevOps
+- Learn cloud deployment and DevOps basics
 - Become a professional full-stack engineer
 
 ---
 
-⭐ *“Consistency is more important than perfection.”*
+<div align="center">
+
+### ⭐ “Consistency is more important than perfection.”
+
+</div>
