@@ -134,26 +134,6 @@ A backend API system for handling university event management operations.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=buddhika2003&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/buddhika2003/buddhika2003/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
