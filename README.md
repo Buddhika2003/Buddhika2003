@@ -98,13 +98,20 @@ A REST API backend system for handling university events and registrations.
 `Node.js` `Express.js` `MongoDB`
 
 ---
+---
 
-## 📊 GitHub Stats
+## 📈 Live Progress Viewer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddhikerathnayake19&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhikerathnayake19&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddhikerathnayake19&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buddhikerathnayake19/buddhikerathnayake19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
