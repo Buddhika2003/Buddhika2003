@@ -1,4 +1,4 @@
-<div align="">
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Buddhika%20Rathnayake&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60"/>
 
 # 👋 Welcome to My GitHub Profile
@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ### 🚀 Full-Stack Developer in Progress
 
@@ -35,9 +35,9 @@
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buddhika2003&theme=github_dark" />
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 </td>
 </tr>
