@@ -150,11 +150,8 @@ A backend API system for handling university event management operations.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=buddhika2003&show_icons=true&theme=radical&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika2003&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika2003&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
