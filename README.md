@@ -3,7 +3,7 @@
 
 # 👋 Welcome to My GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Full-Stack+Developer;MERN+Stack+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=58A6AF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Full-Stack+Developer;MERN+Stack+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 
 ---
 
@@ -49,11 +49,11 @@
 
 ### 🚀 What I’m Doing
 
-- 🔭 Building modern **Full-Stack Applications**
-- 🌱 Exploring the **MERN Stack** and backend technologies
-- 👯 Looking to collaborate on **open-source projects**
-- 💡 Passionate about writing clean and scalable code
-- ⚡ Balancing coding life with **Karate discipline**
+ 🔭 Building modern **Full-Stack Applications**<br>
+ 🌱 Exploring the **MERN Stack** and backend technologies<br>
+ 👯 Looking to collaborate on **open-source projects**<br>
+ 💡 Passionate about writing clean and scalable code<br>
+ ⚡ Balancing coding life with **Karate discipline**<br>
 
 <br clear="right"/>
 
@@ -177,17 +177,17 @@ A backend API system for handling university event management operations.
 
 ## 🚀 Goals for 2026
 
-- Build advanced MERN stack applications
-- Contribute to open-source projects
-- Improve backend architecture knowledge
-- Learn cloud deployment & DevOps
-- Become a professional full-stack engineer
+Build advanced MERN stack applications<br>
+  Contribute to open-source projects<br>
+  Improve backend architecture knowledge<br>
+  Learn cloud deployment & DevOps<br>
+  Become a professional full-stack engineer<br>
 
 ---
 
 <div align="center">
 
-### ⭐ “Consistency is more important than perfection.”
+###  “Consistency is more important than perfection.”
 
 </div>
 
