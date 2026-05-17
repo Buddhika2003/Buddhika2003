@@ -1,45 +1,53 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Buddhika%20Rathnayake&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Karate%20Fighter%20|%20BSc%20IT%20Undergraduate&descAlignY=60"/>
 
-# 👋 Welcome to My GitHub Profile
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Buddhika%20Rathnayake&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Learner%20|%20BSc%20IT%20Undergraduate&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=58A6AF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Full-Stack+Developer;MERN+Stack+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+# Hi, I'm Buddhika Rathnayake 👋
+
+### Full-Stack Developer • MERN Stack Learner • Software Engineering Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Full-Stack+Development;React+%7C+Node.js+%7C+MongoDB;Always+Improving+My+Skills" />
+
+<p align="center">
+  <a href="https://github.com/buddhika2003">
+    <img src="https://img.shields.io/github/followers/buddhika2003?label=Followers&style=for-the-badge&color=0A66C2"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Open%20Source-Learner-success?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
 
-## ✨ About Me
+# 💫 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="55%">
 
-### 🚀 Full-Stack Developer in Progress
+<td width="60%">
 
-- 💻 Passionate about building modern and responsive web applications
-- 🌱 Currently learning and improving:
-  - **Node.js**
-  - **React**
-  - **JavaScript**
-  - **Java**
-  - **C++**
-  - **Object-Oriented Programming**
-- 🔥 Interested in:
-  - MERN Stack Development
-  - REST APIs
-  - Backend Development
-  - Software Engineering
-- 🤝 Open for beginner-friendly collaborations and open-source projects
-- 🥋 Fun Fact: I balance coding with Karate discipline
+### 👨‍💻 Full-Stack Developer in Progress
+
+- Passionate about building scalable and modern web applications
+- Focused on improving my **MERN Stack Development** skills
+- Interested in **Backend Engineering**, **REST APIs**, and **Software Architecture**
+- Learning clean coding practices and real-world project development
+- Open to beginner-friendly collaborations and open-source contributions
+- Balancing technology and discipline through **Karate**
 
 </td>
 
-<td width="45%">
+<td width="40%">
 
 <img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -47,117 +55,172 @@
 
 ---
 
-### 🚀 What I’m Doing
-
- 🔭 Building modern **Full-Stack Applications**<br>
- 🌱 Exploring the **MERN Stack** and backend technologies<br>
- 👯 Looking to collaborate on **open-source projects**<br>
- 💡 Passionate about writing clean and scalable code<br>
- ⚡ Balancing coding life with **Karate discipline**<br>
-
-<br clear="right"/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🧰 Tech Stack
+# 🚀 Current Focus
 
 <div align="center">
 
-### 💻 Frontend
+<table>
+<tr>
 
+<td width="33%">
+
+### ⚡ Development
+
+- Full-Stack MERN Applications
+- Backend API Development
+- Responsive UI Design
+- Clean Code Practices
+
+</td>
+
+<td width="33%">
+
+### 📚 Learning
+
+- Backend Architecture
+- API Security
+- Database Design
+- DevOps Fundamentals
+
+</td>
+
+<td width="33%">
+
+### 🎯 Goals
+
+- Build Real-World Systems
+- Contribute to Open Source
+- Improve Problem Solving
+- Become a Professional Engineer
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### ⚙️ Backend
-
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🗄️ Database
-
+### Database
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
-### 🛠️ Tools & Platforms
-
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb" />
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+# 📌 Featured Projects
 
-## 📂 Featured Projects
+<div align="center">
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 💰 Student Expense Tracker System
+## 💰 Student Expense Tracker System
 
-A full-stack MERN application for managing daily expenses, budgets, and financial reports.
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Full%20Stack-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square"/>
 
-#### ✨ Features
+### 📖 Overview
+A modern MERN stack web application developed to help students manage their daily expenses, budgets, and financial reports efficiently through a clean and responsive dashboard.
 
-- JWT Authentication
-- Expense Management
-- Budget Tracking
-- Monthly Reports
-- Search Functionality
+### ✨ Core Features
+- 🔐 Secure JWT Authentication
+- 💸 Expense & Budget Management
+- 📊 Monthly Financial Reports
+- 🔍 Smart Search Functionality
+- 📱 Responsive Dashboard UI
+- 📂 Organized Expense Categories
 
-#### ⚡ Technologies Used
+### 🛠️ Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+</p>
 
-`React` `Node.js` `Express.js` `MongoDB`
+### 📈 Highlights
+- RESTful API Architecture
+- MongoDB Database Integration
+- Secure Authentication System
+- Clean Backend Structure
 
 </td>
 
 <td width="50%">
 
-### 🎉 Student Event Management System
+## 🎉 Student Event Management System
 
-A backend API system for handling university event management operations.
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Backend%20API-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-API-red?style=flat-square"/>
 
-#### ✨ Features
+### 📖 Overview
+A backend-focused event management system designed for handling university event operations including event creation, registrations, and participant management.
 
-- CRUD Operations
-- Event Registration
-- MongoDB Integration
-- API Testing with Postman
+### ✨ Core Features
+- 🧩 RESTful CRUD Operations
+- 📝 Event Registration System
+- 🔗 MongoDB Database Integration
+- 📮 API Testing with Postman
+- ⚡ Structured Backend Architecture
+- 🔒 Secure API Endpoints
 
-#### ⚡ Technologies Used
+### 🛠️ Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman"/>
+</p>
 
-`Node.js` `Express.js` `MongoDB`
+### 📈 Highlights
+- Scalable Backend Design
+- API-Centered Development
+- Clean Route & Controller Structure
+- Practical Real-World Use Case
 
 </td>
+
 </tr>
 </table>
 
+</div>
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 📈 Live Progress Viewer
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=react-dark&hide_border=true&area=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buddhika2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika2003&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika2003&theme=radical&hide_border=true"/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -173,26 +236,20 @@ A backend API system for handling university event management operations.
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+# 🎯 2026 Goals
 
-## 🚀 Goals for 2026
-
-Build advanced MERN stack applications<br>
-  Contribute to open-source projects<br>
-  Improve backend architecture knowledge<br>
-  Learn cloud deployment & DevOps<br>
-  Become a professional full-stack engineer<br>
+- Build advanced MERN stack applications
+- Contribute to open-source projects
+- Improve backend architecture knowledge
+- Learn deployment & cloud technologies
+- Become a professional full-stack engineer
 
 ---
 
 <div align="center">
 
-###  “Consistency is more important than perfection.”
+### “Consistency beats perfection.”
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
