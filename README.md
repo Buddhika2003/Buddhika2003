@@ -120,83 +120,78 @@
 </div>
 
 ---
-
-# 📌 Featured Projects
+<h1 align="center">📌 Featured Projects</h1>
 
 <div align="center">
-
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## 💰 Student Expense Tracker System
+<h2>🌍 SL Wide Tours</h2>
 
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-Full%20Stack-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:11998e,100:38ef7d&text=Business%20Website&fontSize=22&fontColor=ffffff"/>
 
-### 📖 Overview
-A modern MERN stack web application developed to help students manage their daily expenses, budgets, and financial reports efficiently through a clean and responsive dashboard.
+<br><br>
 
-### ✨ Core Features
-- 🔐 Secure JWT Authentication
-- 💸 Expense & Budget Management
-- 📊 Monthly Financial Reports
-- 🔍 Smart Search Functionality
-- 📱 Responsive Dashboard UI
-- 📂 Organized Expense Categories
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Client-Project-blue?style=for-the-badge"/>
 
-### 🛠️ Technologies
+<br><br>
+
 <p>
+<b>Founder business profile website</b><br>
+for SL Wide Tours and<br>
+Mr. Darshana Jayawardana.
+</p>
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+<br><br>
+
+<a href="https://github.com/Buddhika2003/SL-wide-tours">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://buddhika2003.github.io/SL-wide-tours/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h2>💰 Expense Tracker</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:141E30,100:243B55&text=MERN%20Application&fontSize=22&fontColor=ffffff"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack-MERN-green?style=for-the-badge"/>
+
+<br><br>
+
+<p>
+<b>Student expense management app</b><br>
+with authentication, budgets,<br>
+and monthly reports.
+</p>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-</p>
 
-### 📈 Highlights
-- RESTful API Architecture
-- MongoDB Database Integration
-- Secure Authentication System
-- Clean Backend Structure
+<br><br>
 
-</td>
-
-<td width="50%">
-
-## 🎉 Student Event Management System
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-Backend%20API-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST-API-red?style=flat-square"/>
-
-### 📖 Overview
-A backend-focused event management system designed for handling university event operations including event creation, registrations, and participant management.
-
-### ✨ Core Features
-- 🧩 RESTful CRUD Operations
-- 📝 Event Registration System
-- 🔗 MongoDB Database Integration
-- 📮 API Testing with Postman
-- ⚡ Structured Backend Architecture
-- 🔒 Secure API Endpoints
-
-### 🛠️ Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman"/>
-</p>
-
-### 📈 Highlights
-- Scalable Backend Design
-- API-Centered Development
-- Clean Route & Controller Structure
-- Practical Real-World Use Case
+<a href="https://github.com/Buddhika2003/Student-Expense-Tracker">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-</tr>
+<td width="33%" align="center">
+
 </table>
 
-</div>
----
 
 # 📊 GitHub Analytics
 
