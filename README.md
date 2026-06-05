@@ -67,24 +67,15 @@
 </div>
 
 ---
-
 # 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
 
 </div>
+
+---
 
 ---
 
