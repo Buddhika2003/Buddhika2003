@@ -3,6 +3,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Buddhika%20Rathnayake&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Learner%20|%20BSc%20IT%20Undergraduate&descAlignY=58&descSize=18"/>
 
 # Hi, I'm Buddhika Rathnayake 👋
+<div align="center">
+
+<h2>🌐 Personal Portfolio</h2>
+
+<p>
+Explore my projects, technical skills, certifications, and development journey.
+</p>
+
+<a href="https://buddhika2003.github.io/MyPortfolio/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ### Full-Stack Developer • MERN Stack Learner • Software Engineering Enthusiast
 
