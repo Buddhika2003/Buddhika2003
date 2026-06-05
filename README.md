@@ -3,13 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Buddhika%20Rathnayake&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Learner%20|%20BSc%20IT%20Undergraduate&descAlignY=58&descSize=18"/>
 
 # Hi, I'm Buddhika Rathnayake 👋
+
 <div align="center">
 
-<h2>🌐 Personal Portfolio</h2>
-
-<p>
-Explore my projects, technical skills, certifications, and development journey.
-</p>
+<h2>•Personal Portfolio•</h2>
 
 <a href="https://buddhika2003.github.io/MyPortfolio/" target="_blank">
 <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -46,12 +43,15 @@ Explore my projects, technical skills, certifications, and development journey.
 
 ### 👨‍💻 Full-Stack Developer in Progress
 
-- Passionate about building scalable and modern web applications
-- Focused on improving my **MERN Stack Development** skills
-- Interested in **Backend Engineering**, **REST APIs**, and **Software Architecture**
-- Learning clean coding practices and real-world project development
-- Open to beginner-friendly collaborations and open-source contributions
-- Balancing technology and discipline through **Karate**
+🎓 BSc Information Technology Undergraduate
+
+💻 Passionate about Full-Stack Web Development using the MERN Stack
+
+🚀 Building modern web applications and RESTful APIs
+
+📚 Continuously learning Software Engineering, Backend Development, and DevOps
+
+🥋 Karate Practitioner focused on discipline, consistency, and self-improvement
 
 </td>
 
@@ -67,52 +67,6 @@ Explore my projects, technical skills, certifications, and development journey.
 </div>
 
 ---
-
-# 🚀 Current Focus
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%">
-
-### ⚡ Development
-
-- Full-Stack MERN Applications
-- Backend API Development
-- Responsive UI Design
-- Clean Code Practices
-
-</td>
-
-<td width="33%">
-
-### 📚 Learning
-
-- Backend Architecture
-- API Security
-- Database Design
-- DevOps Fundamentals
-
-</td>
-
-<td width="33%">
-
-### 🎯 Goals
-
-- Build Real-World Systems
-- Contribute to Open Source
-- Improve Problem Solving
-- Become a Professional Engineer
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
 
 # 🛠️ Tech Stack
 
@@ -133,6 +87,7 @@ Explore my projects, technical skills, certifications, and development journey.
 </div>
 
 ---
+
 <h1 align="center">📌 Featured Projects</h1>
 
 <div align="center">
@@ -203,13 +158,62 @@ and monthly reports.
 
 <td width="33%" align="center">
 
-</table>
+<h2>🌐 Portfolio Website</h2>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0F2027,100:2C5364&text=Personal%20Portfolio&fontSize=22&fontColor=ffffff"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge"/>
+
+<br><br>
+
+<p>
+<b>Modern personal portfolio</b><br>
+showcasing projects, skills,<br>
+and development journey.
+</p>
+
+<img src="https://skillicons.dev/icons?i=react,css,github"/>
+
+<br><br>
+
+<a href="https://github.com/Buddhika2003/MyPortfolio">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://buddhika2003.github.io/MyPortfolio/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+# 🏆 Highlights
+
+<div align="center">
+
+| Achievement | Details |
+|------------|---------|
+| 🎓 Education | BSc Information Technology Undergraduate |
+| 💼 Internship | Completed Internship at People's Bank |
+| 🌍 Client Project | Developed SL Wide Tours Business Website |
+| 💰 MERN Project | Built Student Expense Tracker Application |
+| 🚀 Portfolio | Designed and Deployed Personal Portfolio Website |
+
+</div>
+
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
-
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika2003&theme=tokyonight&hide_border=true"/>
 
@@ -240,16 +244,6 @@ and monthly reports.
 </a>
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-- Build advanced MERN stack applications
-- Contribute to open-source projects
-- Improve backend architecture knowledge
-- Learn deployment & cloud technologies
-- Become a professional full-stack engineer
 
 ---
 
