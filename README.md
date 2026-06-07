@@ -62,6 +62,7 @@
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -180,6 +181,41 @@ and development journey.
 
 </td>
 
+</tr>
+<tr>
+  <td width="33%" align="center">
+
+<h2>⚛️ Physics Class Profile</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:2563eb,100:38bdf8&text=Client%20Website&fontSize=22&fontColor=ffffff"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Client-Project-blue?style=for-the-badge"/>
+
+<br><br>
+
+<p>
+<b>Professional A/L Physics teacher</b><br>
+profile website featuring class<br>
+details, contact information,<br>
+social media links and modern UI.
+</p>
+
+<img src="https://skillicons.dev/icons?i=react,css,github"/>
+
+<br><br>
+
+<a href="https://github.com/Buddhika2003/physics-with-sajith-sir">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://buddhika2003.github.io/physics-with-sajith-sir/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
 </tr>
 </table>
 </div>
