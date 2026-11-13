@@ -248,15 +248,18 @@ social media links and modern UI.
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=buddhika2003&theme=tokyo-night&hide_border=true&area=true"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RashmikaTR/RashmikaTR/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RashmikaTR/RashmikaTR/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RashmikaTR/RashmikaTR/output/github-snake.svg" />
+</picture>
 </div>
 
 ---
+
 
 # 🌐 Connect With Me
 
